@@ -1,0 +1,26 @@
+{
+  "name": "pexec",
+  "version": "1.0.0",
+  "description": "Promisified exec",
+  "main": "index.js",
+  "scripts": {
+    "test": "markdown-code-blocks -t javascript < README.md | node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:grncdr/pexec.git"
+  },
+  "devDependencies": {
+    "buster": "~0.7.13",
+    "markdown-code-blocks": "0.0.1"
+  },
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grncdr/pexec/issues"
+  },
+  "homepage": "https://github.com/grncdr/pexec",
+  "dependencies": {
+    "bluebird": "^2.2.2"
+  }
+}
