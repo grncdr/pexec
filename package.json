@@ -11,7 +11,6 @@
     "url": "git@github.com:grncdr/pexec.git"
   },
   "devDependencies": {
-    "buster": "~0.7.13",
     "markdown-code-blocks": "0.0.1"
   },
   "author": "Stephen Sugden <me@stephensugden.com>",
